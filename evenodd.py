@@ -5,3 +5,4 @@ if num % 2 == 0:
 else:
     print("The number is odd.")
 print("Done!")
+print("Thank you for using the program.")
